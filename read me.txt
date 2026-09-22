@@ -1,0 +1,26 @@
+# Dino Game 🦖
+
+A simple Dino runner game built with **Python** and **Pygame**.  
+Inspired by the Chrome offline dinosaur game, but with added weather effects (rain, summer, winter) and animated Dino sprites.
+
+## 🎮 Features
+- Dino running animation (3 frames)
+- Jumping with gravity physics
+- Cactus obstacles with increasing speed
+- Score and High Score tracking
+- Weather effects:
+  - 🌧 Rain
+  - ❄️ Winter fog
+  - ☀️ Summer sunlight
+- Main menu and Game Over screen
+
+## 🖼 Assets
+- `background.png` – desert background
+- `cactus.png` – cactus obstacle
+- `dino running 1.png`, `dino running 2.png`, `dino running 3.png` – Dino animation frames
+
+## ▶️ How to Play
+1. Install Python (3.10+ recommended).
+2. Install Pygame:
+   ```bash
+   pip install pygame
